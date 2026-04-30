@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Khushi Chavan
-- 🎓 BE CSE student (VTU)
+- 🎓 BE Computer Science Engineering student (VTU)
 - 🚦 Working on Smart Traffic Congestion Prediction System
-- 💞️ Looking to collaborate on projects
-- 📫 Reach me at: your-email@gmail.com
+- ✨ Interested in creating innovative technical solutions
+- 🤝 Open to collaboration on exciting projects
+- 📫 khushidchavan1@gmail.com
