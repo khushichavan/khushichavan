@@ -3,4 +3,4 @@
 - 🚦 Working on Smart Traffic Congestion Prediction System
 - ✨ Interested in creating innovative technical solutions
 - 🤝 Open to collaboration on exciting projects
-- 📫 khushidchavan1@gmail.com
+- 📫 khushidchavan1@gmail.com or khushichavand2006@gmail.com
