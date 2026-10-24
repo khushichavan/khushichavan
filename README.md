@@ -1,5 +1,31 @@
-# 💫 About Me:
-# Hi, I'm Khushi Chavan 👋<br><br>🎓 **Computer Science & Engineering Student | 2027 Graduate**  <br>💻 **Aspiring Software Engineer | AI & GenAI Enthusiast**<br><br>I'm a Computer Science and Engineering student graduating in **2027**, with a strong interest in building practical software solutions using **Python, web technologies, AI, and Generative AI**.<br><br>I enjoy turning ideas into working projects and learning by building. My projects have given me hands-on experience with **full-stack web development, AI-based applications, computer vision, APIs, databases, and real-time systems**.<br><br>🚀 What I'm Working With<br><br>- 🐍 Python<br>- 🌐 HTML, CSS, JavaScript & React<br>- ⚡ FastAPI & REST APIs<br>- 🗄️ MySQL & MongoDB<br>- 🤖 AI / Generative AI<br>- 👁️ Computer Vision & YOLO<br>- 🔧 Git & GitHub<br>- 💻 VS Code & Google Colab<br><br>📌 Featured Projects<br><br>**AI Traffic Intelligence Platform**  <br>A real-time computer-vision-based traffic monitoring system for vehicle detection, tracking, classification, number-plate recognition, and traffic insights.<br><br>**AquaFlow – Urban Water Supply Conflict Resolver**  <br>A full-stack web application developed during a 24-hour hackathon to address conflicts and challenges in urban water distribution.<br><br>**AI Automated Interview System**  <br>An AI-based interview application designed to conduct interactive interviews using camera, voice, and text-based interactions.<br><br>🌱 Currently Learning<br><br>I'm continuously improving my skills in:<br><br>**Artificial Intelligence • Generative AI • LLMs • AI Agents • Backend Development • Full-Stack Development • Data & Cloud Technologies**<br><br>🎯 My Goal<br><br>My goal is to become a strong **software engineer with expertise in AI-driven applications**, while continuing to build real-world projects, contribute to open-source, and learn from the developer community.<br><br>I'm always open to **learning, collaborating, building projects, and exploring opportunities in software engineering and AI**.<br><br>📫 **Let's connect, build, and learn together!**
+## 💫 About Me
+
+### Hi, I'm Khushi Chavan 👋
+
+🎓 Computer Science & Engineering Student | 2027 Graduate  
+💻 Aspiring Software Engineer | AI & GenAI Enthusiast
+
+I'm a CSE student passionate about building practical software solutions using Python, web technologies, AI, and Generative AI.
+
+I enjoy turning ideas into working projects and gaining hands-on experience in full-stack development, computer vision, APIs, databases, and real-time systems.
+
+**🚀 Technical Skills**
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Web & Backend:** React, FastAPI, Flask, Node.js
+- **Databases:** MySQL, MongoDB
+- **AI & ML:** Generative AI, Computer Vision, YOLO
+- **Tools:** Git, GitHub, VS Code, Google Colab
+
+**📌 Featured Projects**
+- **AI Traffic Intelligence Platform** — Computer vision-based vehicle detection, tracking, classification, and traffic insights.
+- **AquaFlow – Urban Water Supply Conflict Resolver** — A hackathon project addressing urban water distribution challenges.
+- **AI Automated Interview System** — An AI-based application for interactive interviews using voice, text, and camera-based interactions.
+
+**🌱 Currently Learning:** LLMs, AI Agents, Generative AI, Backend Development, and Cloud Technologies.
+
+**🎯 Goal:** To become a software engineer specializing in AI-driven applications while building practical projects and contributing to the developer community.
+
+📫 Open to learning, collaboration, and software engineering opportunities.
 
 
 ## 🌐 Socials:
